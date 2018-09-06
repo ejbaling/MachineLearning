@@ -1,0 +1,5 @@
+12.5,66,7,15,Heater
+13.5,100,8,15,Dehumidifier
+15.5,66,8,16,Heater
+18.5,66,9,15,Heatpump
+15.5,66,8,14,Product 5

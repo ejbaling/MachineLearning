@@ -9,4 +9,16 @@
     <PackageReference Include="Microsoft.ML" Version="0.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="product-data.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="weather-data.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="iris-data.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
